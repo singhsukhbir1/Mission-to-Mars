@@ -1,2 +1,3 @@
 # Mission-to-Mars
-Mission-to-Mars
+## Purpose 
+The main purpose of the project is to polish the current web app and include all four of the hemisphere images alongside with the title of those images. To complete this challenge, we will use BeautifulSoup and Splinter to scrape data, store the scraped data on a Mongo database, and use a web application to display the data .Finally, alter the design of the web app to accommodate these images.
